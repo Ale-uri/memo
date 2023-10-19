@@ -1,0 +1,31 @@
+E:\memora\bin\Debug\memora.exe.config
+E:\memora\bin\Debug\memora.exe
+E:\memora\bin\Debug\memora.pdb
+E:\memora\obj\Debug\memora.csproj.AssemblyReference.cache
+E:\memora\obj\Debug\memora.Form1.resources
+E:\memora\obj\Debug\memora.Properties.Resources.resources
+E:\memora\obj\Debug\memora.csproj.GenerateResource.cache
+E:\memora\obj\Debug\memora.csproj.CoreCompileInputs.cache
+E:\memora\obj\Debug\memora.exe
+E:\memora\obj\Debug\memora.pdb
+D:\tareas,trabajo, etc\tercer semestre\memora\bin\Debug\memora.exe.config
+D:\tareas,trabajo, etc\tercer semestre\memora\bin\Debug\memora.exe
+D:\tareas,trabajo, etc\tercer semestre\memora\bin\Debug\memora.pdb
+D:\tareas,trabajo, etc\tercer semestre\memora\obj\Debug\memora.csproj.AssemblyReference.cache
+D:\tareas,trabajo, etc\tercer semestre\memora\obj\Debug\memora.Form1.resources
+D:\tareas,trabajo, etc\tercer semestre\memora\obj\Debug\memora.Properties.Resources.resources
+D:\tareas,trabajo, etc\tercer semestre\memora\obj\Debug\memora.csproj.GenerateResource.cache
+D:\tareas,trabajo, etc\tercer semestre\memora\obj\Debug\memora.csproj.CoreCompileInputs.cache
+D:\tareas,trabajo, etc\tercer semestre\memora\obj\Debug\memora.exe
+D:\tareas,trabajo, etc\tercer semestre\memora\obj\Debug\memora.pdb
+E:\tareas,trabajo, etc\tercer semestre\memora\bin\Debug\memora.exe.config
+E:\tareas,trabajo, etc\tercer semestre\memora\bin\Debug\memora.exe
+E:\tareas,trabajo, etc\tercer semestre\memora\bin\Debug\memora.pdb
+E:\tareas,trabajo, etc\tercer semestre\memora\obj\Debug\memora.csproj.AssemblyReference.cache
+E:\tareas,trabajo, etc\tercer semestre\memora\obj\Debug\memora.Form1.resources
+E:\tareas,trabajo, etc\tercer semestre\memora\obj\Debug\memora.formas.memo2.resources
+E:\tareas,trabajo, etc\tercer semestre\memora\obj\Debug\memora.Properties.Resources.resources
+E:\tareas,trabajo, etc\tercer semestre\memora\obj\Debug\memora.csproj.GenerateResource.cache
+E:\tareas,trabajo, etc\tercer semestre\memora\obj\Debug\memora.csproj.CoreCompileInputs.cache
+E:\tareas,trabajo, etc\tercer semestre\memora\obj\Debug\memora.exe
+E:\tareas,trabajo, etc\tercer semestre\memora\obj\Debug\memora.pdb
